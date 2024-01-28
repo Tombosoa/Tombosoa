@@ -71,10 +71,6 @@
 </p>
 
 
-<p align="center">
-	<a href='https://ko-fi.com/nate71646' target='_blank'> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40" />
-</p>
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tombosoa&margin-h=15&margin-w=15&align=center)](https://github.com/Tombosoa)
 
@@ -84,6 +80,11 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tombosoa&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+<p align="center">
+	<a href='https://ko-fi.com/nate71646' target='_blank'> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40" />
+</p>
+
 
 <!---
 Tombosoa/Tombosoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
